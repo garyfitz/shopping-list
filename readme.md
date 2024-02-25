@@ -1,4 +1,4 @@
-# Shopping List
+# Shopping List App
 
 Vanilla JavaScript shopping list app.
 
